@@ -15,7 +15,7 @@ For example, {17, 43, 27} is a _cycle_ for $x = 5$, because
 
 We reached first number of the sequence, so the process will repeat again and again, so it's a _cycle_.
 
-The program found every possible solution when $(x+1)^i < 2^{220}$, where $i$ is length of the cycle.
+The program found every possible solution when $(x+1)^i < 2^{220} $, where $i$ is length of the cycle.
 These solutions are _{1, 3}_, _{13, 33, 83}_, _{17, 43, 27}_ for $x = 5$ and _{27, 611}_, _{35, 99}_ for $x = 181$.
 
 Check it by yourself!
