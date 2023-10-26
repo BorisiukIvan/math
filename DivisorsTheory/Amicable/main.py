@@ -96,9 +96,6 @@ def d(x, path, l):
         path2 = path[:]
         path2.append(i)
         d(x/i, path2, i)
-#        path3 = path[:]
-#        path3.append(x/i)
-#        if (x/i > l): d(i, path3, max(l, x/i))
     if (argD(x)):
         path3 = path[:]
         path3.append(x)
@@ -110,8 +107,6 @@ def mk_d(ch, z, arr2, s):
     if (z == ch):
         arr3.append(s)
         return
-#    print ch, z, sigma(z), arr2, s
-#    if (sigma(z) > ch): return
     p = ncd(ch, z)
     if (s > 1):
        z = z / p
@@ -133,9 +128,7 @@ def mk_d(ch, z, arr2, s):
 
 def main():
   global arr, arr3
-#  i = 597663360
-#  i = 1
-  i = 692435520
+  i = 1
   while 1:
     i = i + 1
     arr = []
@@ -148,7 +141,6 @@ def main():
             ch = x/s 
             z = i/s
             a = deliteli(arr[j]) + deliteli(arr[k])
-#            print a
             for l in range(len(a)): a[l] = a[l][0]
             arr3 = []
             try:
