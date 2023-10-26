@@ -1,7 +1,9 @@
 # Extended Collatz conjecture
 As you all know, the Collatz conjecture claims that any positive integer will eventrually be reduced to 1 by appllying the sequence $n_i+1=x∗n_i+1$, when $n_i$ is odd, and $n_i+1=n_i/2$, when $n_i$ is even, where $x=3$.
+
 But let's consider this conjecture for any possible $x$!
-This program finds all _cycles_ for every $x$.
+
+So, this program finds all _cycles_ for every $x$.
 
 For example, {17, 43, 27} is a _cycle_ for $x = 5$, because
 - **17***5 + 1 = 86
