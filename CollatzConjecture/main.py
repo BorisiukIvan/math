@@ -6,21 +6,16 @@ def aliquot(n, i, lim):
         for j in range(i):
             x2 = x2*n+1
             while (x2%2 == 0): x2//=2
-        if (x2 == x):
-            print('x=', x, ',n=',n, ',length=', i, '!!')
-            open("result", "a").write(str(x)+" "+str(n)+" "+str(i))
+        if (x2 == x): print('x=', x, ',n=',n, ',length=', i, '!!')
 
 def main(c, i):
-# множитель
     n = int(2**(c/(i+0.)))
     if (n % 2 == 0): return
 
-# знаменатель
     z = 2**c - n**i
     if (z == 0): return
     lim = ((n+1)**i - n**i) // z
 
-# перебираем числитель
     aliquot(n, i, lim)
 
 c = 1
