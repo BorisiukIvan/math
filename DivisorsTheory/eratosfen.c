@@ -1,4 +1,5 @@
 #include <stdio.h>
+// Find all prime numbers up to 1 million
 int main() {
     long long x = 1000000;
     char arr[x];
