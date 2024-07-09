@@ -1,4 +1,4 @@
-# These are amicable pairs, found by my program, given in format (x, a, b, x*a, x*b), where amicable pairs are (x*a, x*b)
+# These are amicable pairs, found by my program, given in format (x, a, b, x*a, x*b), where amicable pair is (x*a, x*b)
 
 4 55 71 220 284
 819 85 107 69615 87633
