@@ -1,10 +1,9 @@
 #coding: utf-8
-# get all prime numbers up to 1000
+# This programm finds all primes up to x
 
-x = 1000
+x = 1000                            # setting x
 arr = [0, 0] + [1] * (x - 2)
-#prime = []
-print('Массив готов!')
+print('The array is set!')
 
 s = 1
 for i in range(x):
