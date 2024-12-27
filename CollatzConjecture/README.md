@@ -1,5 +1,5 @@
 # Extended Collatz conjecture
-As you, maybe, know, the Collatz conjecture claims that any positive integer will eventrually be reduced to 1 by appllying the sequence $n_i+1=x∗n_i+1$, when $n_i$ is odd, and $n_i+1=n_i/2$, when $n_i$ is even, where $x=3$.
+As you, maybe, know, the Collatz conjecture claims that any positive integer will eventrually be reduced to 1 by appllying the sequence $n_i+1=x∗n_i+1$, when $n_i$ is odd, and $n_{i+1}=n_i/2$, when $n_i$ is even, where $x=3$.
 
 But let's consider this conjecture for any possible $x$!
 
