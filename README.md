@@ -1,2 +1,2 @@
 # math
-Some math problems and their implimentation in programmation
+Just some math problems and their implimentation in programmation.
