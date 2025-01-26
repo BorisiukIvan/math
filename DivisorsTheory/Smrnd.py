@@ -79,7 +79,7 @@ def action(k, primes, UPPER_BOUND=2000):
         print("Checking if the number has any common factors with 10^"+str(i)+"-1"+"                                         \r", end='')
         if (prod % t):
             prod2 = nck(prod, t)
-            print("*** Found new factor",prod2//prod,"using N="+str(i))
+            print("*** Found new factor",prod2//prod,": it is a common factor of Smrnd("+str(k)+") and 10^"+str(i)+"-1")
             s.append(str(prod2//prod))
             prod = prod2 
     if (s):
@@ -87,7 +87,7 @@ def action(k, primes, UPPER_BOUND=2000):
     else: print("Conclusion: Smrnd("+str(k)+") may be a prime.")
     return prod
 
-def generate_primes(x=2000):
+def generate_primes(x):
     res = []
     arr = [0, 0] + [1] * (x - 2)
     s = 1
@@ -95,9 +95,10 @@ def generate_primes(x=2000):
         if (not arr[i]): continue
         res.append(i)
         for j in range(i*i, x, i): arr[j] = 0
-    return i
+    return res
 
-
-primes = generate_primes()
-x = int(input("Please enter an integer.."))
+# This programm will find all prime factors below UPPER_BOUND. Some larger factors may be found also.
+UPPER_BOUND = 2000
+primes = generate_primes(UPPER_BOUND)
+x = int(input("Please enter an integer..\n"))
 action(x, primes)
