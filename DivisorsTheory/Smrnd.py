@@ -71,6 +71,7 @@ def action(k, primes, UPPER_BOUND=2000):
            s.append("5")
            prod *= 5
     print("Working on Smrnd("+str(k)+")...")
+    print("TF result: gcd(Smrnd(k), k) =", prod)
     for i in primes:
         i = int(i) - 1
         if (i > UPPER_BOUND): break
@@ -86,6 +87,17 @@ def action(k, primes, UPPER_BOUND=2000):
     else: print("Conclusion: Smrnd("+str(k)+") may be a prime.")
     return prod
 
-primes = open("/home/vanya/amicable/prime_nums").read().split("\n")
+def generate_primes(x=2000):
+    res = []
+    arr = [0, 0] + [1] * (x - 2)
+    s = 1
+    for i in range(x):
+        if (not arr[i]): continue
+        res.append(i)
+        for j in range(i*i, x, i): arr[j] = 0
+    return i
+
+
+primes = generate_primes()
 x = int(input("Please enter an integer.."))
 action(x, primes)
