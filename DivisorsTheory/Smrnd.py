@@ -79,12 +79,12 @@ def action(k, primes, UPPER_BOUND=2000):
         print("Checking if the number has any common factors with 10^"+str(i)+"-1"+"                                         \r", end='')
         if (prod % t):
             prod2 = nck(prod, t)
-            print("*** Found new factor",prod2//prod,": it is a common factor of Smrnd("+str(k)+") and 10^"+str(i)+"-1")
+            print("*** Found new factor",prod2//prod,": it is a common factor of Smrnd("+str(k)+") and 10^"+str(i)+"-1                       ")
             s.append(str(prod2//prod))
             prod = prod2 
     if (s):
-        print("Conclusion: Smrnd("+str(k)+") is not a prime. It is divisible by", str(prod)+"="+"*".join(s)+".")
-    else: print("Conclusion: Smrnd("+str(k)+") may be a prime.")
+        print("Conclusion: Smrnd("+str(k)+") is not a prime. It is divisible by", str(prod)+"="+"*".join(s)+".                    ")
+    else: print("Conclusion: Smrnd("+str(k)+") may be a prime.                              ")
     return prod
 
 def generate_primes(x):
