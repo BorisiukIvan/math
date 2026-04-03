@@ -1,14 +1,14 @@
 '''
-Let's define Smrnd(n) by being then concatenation of all integers from 1 to n.
+Let's define Smrnd(n) by being the concatenation of all integers from 1 to n.
 For example, Smrnd(5) = 12345 and Smrnd(11) = 1234567891011.
 It is unknown if Smrnd(n) may be prime, but it is conjectured that there are
-an infinity of such numbers.
+an infinity of such primes.
 
 This tool finds small prime factors of such numbers, even if n is very large.
 I tried the programm for some n~10^17 and it found all prime factors of
 Smrnd(n) below 3000 in just 10 seconds.
 
-This programm cannot prove primality of a given Smrnd(n), but it cannot
+This programm cannot prove primality of a given Smrnd(n), but it can
 prove that the given Smrnd(n) is composite.
 
 Some interesting values for n are n = 211693703833318391 and
