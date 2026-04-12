@@ -1,0 +1,1209 @@
+// In this file, x is the member of the cycle and n is the multiplier. Almost all cycles are repeated many times.
+
+c: 2
+c: 3
+c: 4
+c: 5
+x= 1 ,n= 5 ,length= 2 !!
+c: 6
+c: 7
+x= 13 ,n= 5 ,length= 3 !!
+x= 17 ,n= 5 ,length= 3 !!
+x= 27 ,n= 5 ,length= 3 !!
+c: 8
+c: 9
+c: 10
+x= 1 ,n= 5 ,length= 4 !!
+c: 11
+c: 12
+c: 13
+c: 14
+x= 1 ,n= 5 ,length= 6 !!
+x= 3 ,n= 5 ,length= 6 !!
+x= 13 ,n= 5 ,length= 6 !!
+x= 17 ,n= 5 ,length= 6 !!
+x= 27 ,n= 5 ,length= 6 !!
+x= 33 ,n= 5 ,length= 6 !!
+c: 15
+x= 27 ,n= 181 ,length= 2 !!
+x= 35 ,n= 181 ,length= 2 !!
+x= 1 ,n= 5 ,length= 6 !!
+c: 16
+c: 17
+x= 1 ,n= 7 ,length= 6 !!
+c: 18
+c: 19
+x= 1 ,n= 5 ,length= 8 !!
+x= 3 ,n= 5 ,length= 8 !!
+c: 20
+x= 1 ,n= 7 ,length= 7 !!
+x= 1 ,n= 5 ,length= 8 !!
+c: 21
+x= 13 ,n= 5 ,length= 9 !!
+x= 17 ,n= 5 ,length= 9 !!
+x= 27 ,n= 5 ,length= 9 !!
+x= 33 ,n= 5 ,length= 9 !!
+x= 43 ,n= 5 ,length= 9 !!
+c: 22
+c: 23
+x= 1 ,n= 7 ,length= 8 !!
+c: 24
+x= 1 ,n= 5 ,length= 10 !!
+x= 3 ,n= 5 ,length= 10 !!
+c: 25
+x= 1 ,n= 5 ,length= 10 !!
+c: 26
+x= 1 ,n= 7 ,length= 9 !!
+c: 27
+c: 28
+x= 1 ,n= 5 ,length= 12 !!
+x= 3 ,n= 5 ,length= 12 !!
+x= 13 ,n= 5 ,length= 12 !!
+x= 17 ,n= 5 ,length= 12 !!
+x= 27 ,n= 5 ,length= 12 !!
+x= 33 ,n= 5 ,length= 12 !!
+x= 43 ,n= 5 ,length= 12 !!
+c: 29
+x= 1 ,n= 7 ,length= 10 !!
+x= 1 ,n= 5 ,length= 12 !!
+x= 3 ,n= 5 ,length= 12 !!
+c: 30
+x= 27 ,n= 181 ,length= 4 !!
+x= 35 ,n= 181 ,length= 4 !!
+x= 1 ,n= 5 ,length= 12 !!
+c: 31
+x= 1 ,n= 7 ,length= 11 !!
+x= 1 ,n= 5 ,length= 12 !!
+c: 32
+x= 1 ,n= 7 ,length= 11 !!
+c: 33
+x= 1 ,n= 5 ,length= 14 !!
+x= 3 ,n= 5 ,length= 14 !!
+c: 34
+x= 1 ,n= 7 ,length= 12 !!
+x= 1 ,n= 5 ,length= 14 !!
+x= 3 ,n= 5 ,length= 14 !!
+c: 35
+x= 1 ,n= 7 ,length= 12 !!
+x= 1 ,n= 5 ,length= 14 !!
+x= 13 ,n= 5 ,length= 15 !!
+x= 17 ,n= 5 ,length= 15 !!
+x= 27 ,n= 5 ,length= 15 !!
+x= 33 ,n= 5 ,length= 15 !!
+x= 43 ,n= 5 ,length= 15 !!
+x= 83 ,n= 5 ,length= 15 !!
+c: 36
+x= 1 ,n= 5 ,length= 14 !!
+c: 37
+x= 1 ,n= 7 ,length= 13 !!
+c: 38
+x= 1 ,n= 7 ,length= 13 !!
+x= 1 ,n= 5 ,length= 16 !!
+x= 3 ,n= 5 ,length= 16 !!
+c: 39
+x= 1 ,n= 5 ,length= 16 !!
+x= 3 ,n= 5 ,length= 16 !!
+c: 40
+x= 1 ,n= 7 ,length= 14 !!
+x= 1 ,n= 5 ,length= 16 !!
+c: 41
+x= 1 ,n= 7 ,length= 14 !!
+x= 1 ,n= 5 ,length= 16 !!
+c: 42
+x= 1 ,n= 5 ,length= 18 !!
+x= 3 ,n= 5 ,length= 18 !!
+x= 13 ,n= 5 ,length= 18 !!
+x= 17 ,n= 5 ,length= 18 !!
+x= 27 ,n= 5 ,length= 18 !!
+x= 33 ,n= 5 ,length= 18 !!
+x= 43 ,n= 5 ,length= 18 !!
+x= 83 ,n= 5 ,length= 18 !!
+c: 43
+x= 1 ,n= 15 ,length= 11 !!
+x= 1 ,n= 7 ,length= 15 !!
+x= 1 ,n= 5 ,length= 18 !!
+x= 3 ,n= 5 ,length= 18 !!
+x= 13 ,n= 5 ,length= 18 !!
+x= 17 ,n= 5 ,length= 18 !!
+c: 44
+x= 1 ,n= 7 ,length= 15 !!
+x= 1 ,n= 5 ,length= 18 !!
+x= 3 ,n= 5 ,length= 18 !!
+c: 45
+x= 27 ,n= 181 ,length= 6 !!
+x= 35 ,n= 181 ,length= 6 !!
+x= 1 ,n= 7 ,length= 16 !!
+x= 1 ,n= 5 ,length= 18 !!
+x= 3 ,n= 5 ,length= 18 !!
+c: 46
+x= 1 ,n= 7 ,length= 16 !!
+x= 1 ,n= 5 ,length= 18 !!
+c: 47
+x= 1 ,n= 15 ,length= 12 !!
+x= 1 ,n= 7 ,length= 16 !!
+x= 1 ,n= 5 ,length= 20 !!
+x= 3 ,n= 5 ,length= 20 !!
+c: 48
+x= 1 ,n= 7 ,length= 17 !!
+x= 1 ,n= 5 ,length= 20 !!
+x= 3 ,n= 5 ,length= 20 !!
+c: 49
+x= 1 ,n= 7 ,length= 17 !!
+x= 1 ,n= 5 ,length= 20 !!
+x= 3 ,n= 5 ,length= 20 !!
+x= 13 ,n= 5 ,length= 21 !!
+x= 17 ,n= 5 ,length= 21 !!
+x= 27 ,n= 5 ,length= 21 !!
+x= 33 ,n= 5 ,length= 21 !!
+x= 43 ,n= 5 ,length= 21 !!
+x= 83 ,n= 5 ,length= 21 !!
+c: 50
+x= 1 ,n= 7 ,length= 17 !!
+x= 1 ,n= 5 ,length= 20 !!
+x= 3 ,n= 5 ,length= 20 !!
+x= 13 ,n= 5 ,length= 21 !!
+x= 17 ,n= 5 ,length= 21 !!
+x= 27 ,n= 5 ,length= 21 !!
+x= 33 ,n= 5 ,length= 21 !!
+c: 51
+x= 1 ,n= 15 ,length= 13 !!
+x= 1 ,n= 7 ,length= 18 !!
+x= 1 ,n= 5 ,length= 20 !!
+c: 52
+x= 1 ,n= 7 ,length= 18 !!
+x= 1 ,n= 5 ,length= 22 !!
+x= 3 ,n= 5 ,length= 22 !!
+c: 53
+x= 1 ,n= 7 ,length= 18 !!
+x= 1 ,n= 5 ,length= 22 !!
+x= 3 ,n= 5 ,length= 22 !!
+c: 54
+x= 1 ,n= 7 ,length= 19 !!
+x= 1 ,n= 5 ,length= 22 !!
+x= 3 ,n= 5 ,length= 22 !!
+c: 55
+x= 1 ,n= 15 ,length= 14 !!
+x= 1 ,n= 7 ,length= 19 !!
+x= 1 ,n= 5 ,length= 22 !!
+x= 3 ,n= 5 ,length= 22 !!
+c: 56
+x= 1 ,n= 7 ,length= 19 !!
+x= 1 ,n= 5 ,length= 22 !!
+x= 1 ,n= 5 ,length= 24 !!
+x= 3 ,n= 5 ,length= 24 !!
+x= 13 ,n= 5 ,length= 24 !!
+x= 17 ,n= 5 ,length= 24 !!
+x= 27 ,n= 5 ,length= 24 !!
+x= 33 ,n= 5 ,length= 24 !!
+x= 43 ,n= 5 ,length= 24 !!
+x= 83 ,n= 5 ,length= 24 !!
+c: 57
+x= 1 ,n= 7 ,length= 20 !!
+x= 1 ,n= 5 ,length= 24 !!
+x= 3 ,n= 5 ,length= 24 !!
+x= 13 ,n= 5 ,length= 24 !!
+x= 17 ,n= 5 ,length= 24 !!
+x= 27 ,n= 5 ,length= 24 !!
+x= 33 ,n= 5 ,length= 24 !!
+x= 43 ,n= 5 ,length= 24 !!
+c: 58
+x= 1 ,n= 7 ,length= 20 !!
+x= 1 ,n= 5 ,length= 24 !!
+x= 3 ,n= 5 ,length= 24 !!
+x= 13 ,n= 5 ,length= 24 !!
+x= 17 ,n= 5 ,length= 24 !!
+c: 59
+x= 1 ,n= 15 ,length= 15 !!
+x= 1 ,n= 7 ,length= 20 !!
+x= 1 ,n= 7 ,length= 21 !!
+x= 1 ,n= 5 ,length= 24 !!
+x= 3 ,n= 5 ,length= 24 !!
+c: 60
+x= 27 ,n= 181 ,length= 8 !!
+x= 35 ,n= 181 ,length= 8 !!
+x= 1 ,n= 7 ,length= 21 !!
+x= 1 ,n= 5 ,length= 24 !!
+x= 3 ,n= 5 ,length= 24 !!
+c: 61
+x= 1 ,n= 7 ,length= 21 !!
+x= 1 ,n= 5 ,length= 24 !!
+x= 1 ,n= 5 ,length= 26 !!
+x= 3 ,n= 5 ,length= 26 !!
+c: 62
+x= 1 ,n= 7 ,length= 21 !!
+x= 1 ,n= 7 ,length= 22 !!
+x= 1 ,n= 5 ,length= 24 !!
+x= 1 ,n= 5 ,length= 26 !!
+x= 3 ,n= 5 ,length= 26 !!
+c: 63
+x= 1 ,n= 15 ,length= 16 !!
+x= 1 ,n= 7 ,length= 22 !!
+x= 1 ,n= 5 ,length= 26 !!
+x= 3 ,n= 5 ,length= 26 !!
+x= 13 ,n= 5 ,length= 27 !!
+x= 17 ,n= 5 ,length= 27 !!
+x= 27 ,n= 5 ,length= 27 !!
+x= 33 ,n= 5 ,length= 27 !!
+x= 43 ,n= 5 ,length= 27 !!
+x= 83 ,n= 5 ,length= 27 !!
+c: 64
+x= 1 ,n= 7 ,length= 22 !!
+x= 1 ,n= 5 ,length= 26 !!
+x= 3 ,n= 5 ,length= 26 !!
+x= 13 ,n= 5 ,length= 27 !!
+x= 17 ,n= 5 ,length= 27 !!
+x= 27 ,n= 5 ,length= 27 !!
+x= 33 ,n= 5 ,length= 27 !!
+x= 43 ,n= 5 ,length= 27 !!
+x= 83 ,n= 5 ,length= 27 !!
+c: 65
+x= 1 ,n= 7 ,length= 22 !!
+x= 1 ,n= 7 ,length= 23 !!
+x= 1 ,n= 5 ,length= 26 !!
+x= 3 ,n= 5 ,length= 26 !!
+x= 13 ,n= 5 ,length= 27 !!
+x= 17 ,n= 5 ,length= 27 !!
+x= 27 ,n= 5 ,length= 27 !!
+x= 33 ,n= 5 ,length= 27 !!
+c: 66
+x= 1 ,n= 7 ,length= 23 !!
+x= 1 ,n= 5 ,length= 26 !!
+x= 13 ,n= 5 ,length= 27 !!
+x= 1 ,n= 5 ,length= 28 !!
+x= 3 ,n= 5 ,length= 28 !!
+c: 67
+x= 1 ,n= 15 ,length= 17 !!
+x= 1 ,n= 7 ,length= 23 !!
+x= 1 ,n= 5 ,length= 26 !!
+x= 1 ,n= 5 ,length= 28 !!
+x= 3 ,n= 5 ,length= 28 !!
+c: 68
+x= 1 ,n= 7 ,length= 23 !!
+x= 1 ,n= 7 ,length= 24 !!
+x= 1 ,n= 5 ,length= 28 !!
+x= 3 ,n= 5 ,length= 28 !!
+c: 69
+x= 1 ,n= 7 ,length= 24 !!
+x= 1 ,n= 5 ,length= 28 !!
+x= 3 ,n= 5 ,length= 28 !!
+c: 70
+x= 1 ,n= 7 ,length= 24 !!
+x= 1 ,n= 5 ,length= 28 !!
+x= 3 ,n= 5 ,length= 28 !!
+x= 1 ,n= 5 ,length= 30 !!
+x= 3 ,n= 5 ,length= 30 !!
+x= 13 ,n= 5 ,length= 30 !!
+x= 17 ,n= 5 ,length= 30 !!
+x= 27 ,n= 5 ,length= 30 !!
+x= 33 ,n= 5 ,length= 30 !!
+x= 43 ,n= 5 ,length= 30 !!
+x= 83 ,n= 5 ,length= 30 !!
+c: 71
+x= 1 ,n= 15 ,length= 18 !!
+x= 1 ,n= 7 ,length= 24 !!
+x= 1 ,n= 7 ,length= 25 !!
+x= 1 ,n= 5 ,length= 28 !!
+x= 1 ,n= 5 ,length= 30 !!
+x= 3 ,n= 5 ,length= 30 !!
+x= 13 ,n= 5 ,length= 30 !!
+x= 17 ,n= 5 ,length= 30 !!
+x= 27 ,n= 5 ,length= 30 !!
+x= 33 ,n= 5 ,length= 30 !!
+x= 43 ,n= 5 ,length= 30 !!
+x= 83 ,n= 5 ,length= 30 !!
+c: 72
+x= 1 ,n= 7 ,length= 25 !!
+x= 1 ,n= 5 ,length= 28 !!
+x= 1 ,n= 5 ,length= 30 !!
+x= 3 ,n= 5 ,length= 30 !!
+x= 13 ,n= 5 ,length= 30 !!
+x= 17 ,n= 5 ,length= 30 !!
+x= 27 ,n= 5 ,length= 30 !!
+x= 33 ,n= 5 ,length= 30 !!
+x= 43 ,n= 5 ,length= 30 !!
+c: 73
+x= 1 ,n= 7 ,length= 25 !!
+x= 1 ,n= 7 ,length= 26 !!
+x= 1 ,n= 5 ,length= 30 !!
+x= 3 ,n= 5 ,length= 30 !!
+x= 13 ,n= 5 ,length= 30 !!
+x= 17 ,n= 5 ,length= 30 !!
+c: 74
+x= 1 ,n= 7 ,length= 25 !!
+x= 1 ,n= 7 ,length= 26 !!
+x= 1 ,n= 5 ,length= 30 !!
+x= 3 ,n= 5 ,length= 30 !!
+c: 75
+x= 27 ,n= 181 ,length= 10 !!
+x= 35 ,n= 181 ,length= 10 !!
+x= 1 ,n= 15 ,length= 19 !!
+x= 1 ,n= 7 ,length= 26 !!
+x= 1 ,n= 5 ,length= 30 !!
+x= 3 ,n= 5 ,length= 30 !!
+x= 1 ,n= 5 ,length= 32 !!
+x= 3 ,n= 5 ,length= 32 !!
+c: 76
+x= 1 ,n= 7 ,length= 26 !!
+x= 1 ,n= 7 ,length= 27 !!
+x= 1 ,n= 5 ,length= 30 !!
+x= 1 ,n= 5 ,length= 32 !!
+x= 3 ,n= 5 ,length= 32 !!
+c: 77
+x= 1 ,n= 7 ,length= 26 !!
+x= 1 ,n= 7 ,length= 27 !!
+x= 1 ,n= 5 ,length= 30 !!
+x= 1 ,n= 5 ,length= 32 !!
+x= 3 ,n= 5 ,length= 32 !!
+x= 13 ,n= 5 ,length= 33 !!
+x= 17 ,n= 5 ,length= 33 !!
+x= 27 ,n= 5 ,length= 33 !!
+x= 33 ,n= 5 ,length= 33 !!
+x= 43 ,n= 5 ,length= 33 !!
+x= 83 ,n= 5 ,length= 33 !!
+c: 78
+x= 1 ,n= 7 ,length= 27 !!
+x= 1 ,n= 5 ,length= 32 !!
+x= 3 ,n= 5 ,length= 32 !!
+x= 13 ,n= 5 ,length= 33 !!
+x= 17 ,n= 5 ,length= 33 !!
+x= 27 ,n= 5 ,length= 33 !!
+x= 33 ,n= 5 ,length= 33 !!
+x= 43 ,n= 5 ,length= 33 !!
+x= 83 ,n= 5 ,length= 33 !!
+c: 79
+x= 1 ,n= 15 ,length= 20 !!
+x= 1 ,n= 7 ,length= 27 !!
+x= 1 ,n= 7 ,length= 28 !!
+x= 1 ,n= 5 ,length= 32 !!
+x= 3 ,n= 5 ,length= 32 !!
+x= 13 ,n= 5 ,length= 33 !!
+x= 17 ,n= 5 ,length= 33 !!
+x= 27 ,n= 5 ,length= 33 !!
+x= 33 ,n= 5 ,length= 33 !!
+x= 43 ,n= 5 ,length= 33 !!
+x= 83 ,n= 5 ,length= 33 !!
+x= 1 ,n= 5 ,length= 34 !!
+x= 3 ,n= 5 ,length= 34 !!
+c: 80
+x= 1 ,n= 7 ,length= 27 !!
+x= 1 ,n= 7 ,length= 28 !!
+x= 1 ,n= 5 ,length= 32 !!
+x= 3 ,n= 5 ,length= 32 !!
+x= 13 ,n= 5 ,length= 33 !!
+x= 17 ,n= 5 ,length= 33 !!
+x= 27 ,n= 5 ,length= 33 !!
+x= 33 ,n= 5 ,length= 33 !!
+x= 43 ,n= 5 ,length= 33 !!
+x= 1 ,n= 5 ,length= 34 !!
+x= 3 ,n= 5 ,length= 34 !!
+c: 81
+x= 1 ,n= 7 ,length= 28 !!
+x= 1 ,n= 5 ,length= 32 !!
+x= 3 ,n= 5 ,length= 32 !!
+x= 13 ,n= 5 ,length= 33 !!
+x= 17 ,n= 5 ,length= 33 !!
+x= 1 ,n= 5 ,length= 34 !!
+x= 3 ,n= 5 ,length= 34 !!
+c: 82
+x= 1 ,n= 7 ,length= 28 !!
+x= 1 ,n= 7 ,length= 29 !!
+x= 1 ,n= 5 ,length= 32 !!
+x= 1 ,n= 5 ,length= 34 !!
+x= 3 ,n= 5 ,length= 34 !!
+c: 83
+x= 1 ,n= 15 ,length= 21 !!
+x= 1 ,n= 7 ,length= 28 !!
+x= 1 ,n= 7 ,length= 29 !!
+x= 1 ,n= 5 ,length= 34 !!
+x= 3 ,n= 5 ,length= 34 !!
+c: 84
+x= 1 ,n= 7 ,length= 29 !!
+x= 1 ,n= 5 ,length= 34 !!
+x= 3 ,n= 5 ,length= 34 !!
+x= 1 ,n= 5 ,length= 36 !!
+x= 3 ,n= 5 ,length= 36 !!
+x= 13 ,n= 5 ,length= 36 !!
+x= 17 ,n= 5 ,length= 36 !!
+x= 27 ,n= 5 ,length= 36 !!
+x= 33 ,n= 5 ,length= 36 !!
+x= 43 ,n= 5 ,length= 36 !!
+x= 83 ,n= 5 ,length= 36 !!
+c: 85
+x= 1 ,n= 7 ,length= 29 !!
+x= 1 ,n= 7 ,length= 30 !!
+x= 1 ,n= 5 ,length= 34 !!
+x= 3 ,n= 5 ,length= 34 !!
+x= 1 ,n= 5 ,length= 36 !!
+x= 3 ,n= 5 ,length= 36 !!
+x= 13 ,n= 5 ,length= 36 !!
+x= 17 ,n= 5 ,length= 36 !!
+x= 27 ,n= 5 ,length= 36 !!
+x= 33 ,n= 5 ,length= 36 !!
+x= 43 ,n= 5 ,length= 36 !!
+x= 83 ,n= 5 ,length= 36 !!
+c: 86
+x= 1 ,n= 15 ,length= 22 !!
+x= 1 ,n= 7 ,length= 29 !!
+x= 1 ,n= 7 ,length= 30 !!
+x= 1 ,n= 5 ,length= 34 !!
+x= 3 ,n= 5 ,length= 34 !!
+x= 1 ,n= 5 ,length= 36 !!
+x= 3 ,n= 5 ,length= 36 !!
+x= 13 ,n= 5 ,length= 36 !!
+x= 17 ,n= 5 ,length= 36 !!
+x= 27 ,n= 5 ,length= 36 !!
+x= 33 ,n= 5 ,length= 36 !!
+x= 43 ,n= 5 ,length= 36 !!
+x= 83 ,n= 5 ,length= 36 !!
+c: 87
+x= 1 ,n= 15 ,length= 22 !!
+x= 1 ,n= 7 ,length= 30 !!
+x= 1 ,n= 5 ,length= 34 !!
+x= 1 ,n= 5 ,length= 36 !!
+x= 3 ,n= 5 ,length= 36 !!
+x= 13 ,n= 5 ,length= 36 !!
+x= 17 ,n= 5 ,length= 36 !!
+x= 27 ,n= 5 ,length= 36 !!
+x= 33 ,n= 5 ,length= 36 !!
+x= 43 ,n= 5 ,length= 36 !!
+c: 88
+x= 1 ,n= 7 ,length= 30 !!
+x= 1 ,n= 7 ,length= 31 !!
+x= 1 ,n= 5 ,length= 36 !!
+x= 3 ,n= 5 ,length= 36 !!
+x= 13 ,n= 5 ,length= 36 !!
+x= 17 ,n= 5 ,length= 36 !!
+x= 27 ,n= 5 ,length= 36 !!
+x= 33 ,n= 5 ,length= 36 !!
+c: 89
+x= 1 ,n= 7 ,length= 30 !!
+x= 1 ,n= 7 ,length= 31 !!
+x= 1 ,n= 5 ,length= 36 !!
+x= 3 ,n= 5 ,length= 36 !!
+x= 13 ,n= 5 ,length= 36 !!
+x= 17 ,n= 5 ,length= 36 !!
+x= 1 ,n= 5 ,length= 38 !!
+x= 3 ,n= 5 ,length= 38 !!
+c: 90
+x= 27 ,n= 181 ,length= 12 !!
+x= 35 ,n= 181 ,length= 12 !!
+x= 1 ,n= 15 ,length= 23 !!
+x= 1 ,n= 7 ,length= 31 !!
+x= 1 ,n= 7 ,length= 32 !!
+x= 1 ,n= 5 ,length= 36 !!
+x= 3 ,n= 5 ,length= 36 !!
+x= 1 ,n= 5 ,length= 38 !!
+x= 3 ,n= 5 ,length= 38 !!
+c: 91
+x= 1 ,n= 15 ,length= 23 !!
+x= 1 ,n= 7 ,length= 31 !!
+x= 1 ,n= 7 ,length= 32 !!
+x= 1 ,n= 5 ,length= 36 !!
+x= 3 ,n= 5 ,length= 36 !!
+x= 1 ,n= 5 ,length= 38 !!
+x= 3 ,n= 5 ,length= 38 !!
+x= 13 ,n= 5 ,length= 39 !!
+x= 17 ,n= 5 ,length= 39 !!
+x= 27 ,n= 5 ,length= 39 !!
+x= 33 ,n= 5 ,length= 39 !!
+x= 43 ,n= 5 ,length= 39 !!
+x= 83 ,n= 5 ,length= 39 !!
+c: 92
+x= 1 ,n= 7 ,length= 31 !!
+x= 1 ,n= 7 ,length= 32 !!
+x= 1 ,n= 5 ,length= 36 !!
+x= 1 ,n= 5 ,length= 38 !!
+x= 3 ,n= 5 ,length= 38 !!
+x= 13 ,n= 5 ,length= 39 !!
+x= 17 ,n= 5 ,length= 39 !!
+x= 27 ,n= 5 ,length= 39 !!
+x= 33 ,n= 5 ,length= 39 !!
+x= 43 ,n= 5 ,length= 39 !!
+x= 83 ,n= 5 ,length= 39 !!
+c: 93
+x= 1 ,n= 7 ,length= 32 !!
+x= 1 ,n= 7 ,length= 33 !!
+x= 1 ,n= 5 ,length= 36 !!
+x= 1 ,n= 5 ,length= 38 !!
+x= 3 ,n= 5 ,length= 38 !!
+x= 13 ,n= 5 ,length= 39 !!
+x= 17 ,n= 5 ,length= 39 !!
+x= 27 ,n= 5 ,length= 39 !!
+x= 33 ,n= 5 ,length= 39 !!
+x= 43 ,n= 5 ,length= 39 !!
+x= 83 ,n= 5 ,length= 39 !!
+x= 1 ,n= 5 ,length= 40 !!
+x= 3 ,n= 5 ,length= 40 !!
+c: 94
+x= 1 ,n= 15 ,length= 24 !!
+x= 1 ,n= 7 ,length= 32 !!
+x= 1 ,n= 7 ,length= 33 !!
+x= 1 ,n= 5 ,length= 38 !!
+x= 3 ,n= 5 ,length= 38 !!
+x= 13 ,n= 5 ,length= 39 !!
+x= 17 ,n= 5 ,length= 39 !!
+x= 27 ,n= 5 ,length= 39 !!
+x= 33 ,n= 5 ,length= 39 !!
+x= 43 ,n= 5 ,length= 39 !!
+x= 83 ,n= 5 ,length= 39 !!
+x= 1 ,n= 5 ,length= 40 !!
+x= 3 ,n= 5 ,length= 40 !!
+c: 95
+x= 1 ,n= 15 ,length= 24 !!
+x= 1 ,n= 7 ,length= 32 !!
+x= 1 ,n= 7 ,length= 33 !!
+x= 1 ,n= 5 ,length= 38 !!
+x= 3 ,n= 5 ,length= 38 !!
+x= 13 ,n= 5 ,length= 39 !!
+x= 17 ,n= 5 ,length= 39 !!
+x= 27 ,n= 5 ,length= 39 !!
+x= 33 ,n= 5 ,length= 39 !!
+x= 43 ,n= 5 ,length= 39 !!
+x= 1 ,n= 5 ,length= 40 !!
+x= 3 ,n= 5 ,length= 40 !!
+c: 96
+x= 1 ,n= 7 ,length= 33 !!
+x= 1 ,n= 7 ,length= 34 !!
+x= 1 ,n= 5 ,length= 38 !!
+x= 3 ,n= 5 ,length= 38 !!
+x= 13 ,n= 5 ,length= 39 !!
+x= 17 ,n= 5 ,length= 39 !!
+x= 27 ,n= 5 ,length= 39 !!
+x= 1 ,n= 5 ,length= 40 !!
+x= 3 ,n= 5 ,length= 40 !!
+c: 97
+x= 1 ,n= 7 ,length= 33 !!
+x= 1 ,n= 7 ,length= 34 !!
+x= 1 ,n= 5 ,length= 38 !!
+x= 13 ,n= 5 ,length= 39 !!
+x= 1 ,n= 5 ,length= 40 !!
+x= 3 ,n= 5 ,length= 40 !!
+c: 98
+x= 1 ,n= 15 ,length= 25 !!
+x= 1 ,n= 7 ,length= 33 !!
+x= 1 ,n= 7 ,length= 34 !!
+x= 1 ,n= 5 ,length= 38 !!
+x= 1 ,n= 5 ,length= 40 !!
+x= 3 ,n= 5 ,length= 40 !!
+x= 1 ,n= 5 ,length= 42 !!
+x= 3 ,n= 5 ,length= 42 !!
+x= 13 ,n= 5 ,length= 42 !!
+x= 17 ,n= 5 ,length= 42 !!
+x= 27 ,n= 5 ,length= 42 !!
+x= 33 ,n= 5 ,length= 42 !!
+x= 43 ,n= 5 ,length= 42 !!
+x= 83 ,n= 5 ,length= 42 !!
+c: 99
+x= 1 ,n= 15 ,length= 25 !!
+x= 1 ,n= 7 ,length= 34 !!
+x= 1 ,n= 7 ,length= 35 !!
+x= 1 ,n= 5 ,length= 40 !!
+x= 3 ,n= 5 ,length= 40 !!
+x= 1 ,n= 5 ,length= 42 !!
+x= 3 ,n= 5 ,length= 42 !!
+x= 13 ,n= 5 ,length= 42 !!
+x= 17 ,n= 5 ,length= 42 !!
+x= 27 ,n= 5 ,length= 42 !!
+x= 33 ,n= 5 ,length= 42 !!
+x= 43 ,n= 5 ,length= 42 !!
+x= 83 ,n= 5 ,length= 42 !!
+c: 100
+x= 1 ,n= 7 ,length= 34 !!
+x= 1 ,n= 7 ,length= 35 !!
+x= 1 ,n= 5 ,length= 40 !!
+x= 3 ,n= 5 ,length= 40 !!
+x= 1 ,n= 5 ,length= 42 !!
+x= 3 ,n= 5 ,length= 42 !!
+x= 13 ,n= 5 ,length= 42 !!
+x= 17 ,n= 5 ,length= 42 !!
+x= 27 ,n= 5 ,length= 42 !!
+x= 33 ,n= 5 ,length= 42 !!
+x= 43 ,n= 5 ,length= 42 !!
+x= 83 ,n= 5 ,length= 42 !!
+c: 101
+x= 1 ,n= 7 ,length= 34 !!
+x= 1 ,n= 7 ,length= 35 !!
+x= 1 ,n= 5 ,length= 40 !!
+x= 3 ,n= 5 ,length= 40 !!
+x= 1 ,n= 5 ,length= 42 !!
+x= 3 ,n= 5 ,length= 42 !!
+x= 13 ,n= 5 ,length= 42 !!
+x= 17 ,n= 5 ,length= 42 !!
+x= 27 ,n= 5 ,length= 42 !!
+x= 33 ,n= 5 ,length= 42 !!
+x= 43 ,n= 5 ,length= 42 !!
+x= 83 ,n= 5 ,length= 42 !!
+c: 102
+x= 1 ,n= 15 ,length= 26 !!
+x= 1 ,n= 7 ,length= 35 !!
+x= 1 ,n= 7 ,length= 36 !!
+x= 1 ,n= 5 ,length= 40 !!
+x= 1 ,n= 5 ,length= 42 !!
+x= 3 ,n= 5 ,length= 42 !!
+x= 13 ,n= 5 ,length= 42 !!
+x= 17 ,n= 5 ,length= 42 !!
+x= 27 ,n= 5 ,length= 42 !!
+x= 33 ,n= 5 ,length= 42 !!
+x= 43 ,n= 5 ,length= 42 !!
+x= 83 ,n= 5 ,length= 42 !!
+c: 103
+x= 1 ,n= 15 ,length= 26 !!
+x= 1 ,n= 7 ,length= 35 !!
+x= 1 ,n= 7 ,length= 36 !!
+x= 1 ,n= 5 ,length= 40 !!
+x= 1 ,n= 5 ,length= 42 !!
+x= 3 ,n= 5 ,length= 42 !!
+x= 13 ,n= 5 ,length= 42 !!
+x= 17 ,n= 5 ,length= 42 !!
+x= 27 ,n= 5 ,length= 42 !!
+x= 33 ,n= 5 ,length= 42 !!
+x= 43 ,n= 5 ,length= 42 !!
+x= 1 ,n= 5 ,length= 44 !!
+x= 3 ,n= 5 ,length= 44 !!
+c: 104
+x= 1 ,n= 7 ,length= 35 !!
+x= 1 ,n= 7 ,length= 36 !!
+x= 1 ,n= 7 ,length= 37 !!
+x= 1 ,n= 5 ,length= 42 !!
+x= 3 ,n= 5 ,length= 42 !!
+x= 13 ,n= 5 ,length= 42 !!
+x= 17 ,n= 5 ,length= 42 !!
+x= 1 ,n= 5 ,length= 44 !!
+x= 3 ,n= 5 ,length= 44 !!
+c: 105
+x= 27 ,n= 181 ,length= 14 !!
+x= 35 ,n= 181 ,length= 14 !!
+x= 1 ,n= 7 ,length= 36 !!
+x= 1 ,n= 7 ,length= 37 !!
+x= 1 ,n= 5 ,length= 42 !!
+x= 3 ,n= 5 ,length= 42 !!
+x= 1 ,n= 5 ,length= 44 !!
+x= 3 ,n= 5 ,length= 44 !!
+x= 13 ,n= 5 ,length= 45 !!
+x= 17 ,n= 5 ,length= 45 !!
+x= 27 ,n= 5 ,length= 45 !!
+x= 33 ,n= 5 ,length= 45 !!
+x= 43 ,n= 5 ,length= 45 !!
+x= 83 ,n= 5 ,length= 45 !!
+c: 106
+x= 1 ,n= 15 ,length= 27 !!
+x= 1 ,n= 7 ,length= 36 !!
+x= 1 ,n= 7 ,length= 37 !!
+x= 1 ,n= 5 ,length= 42 !!
+x= 3 ,n= 5 ,length= 42 !!
+x= 1 ,n= 5 ,length= 44 !!
+x= 3 ,n= 5 ,length= 44 !!
+x= 13 ,n= 5 ,length= 45 !!
+x= 17 ,n= 5 ,length= 45 !!
+x= 27 ,n= 5 ,length= 45 !!
+x= 33 ,n= 5 ,length= 45 !!
+x= 43 ,n= 5 ,length= 45 !!
+x= 83 ,n= 5 ,length= 45 !!
+c: 107
+x= 1 ,n= 15 ,length= 27 !!
+x= 1 ,n= 7 ,length= 36 !!
+x= 1 ,n= 7 ,length= 37 !!
+x= 1 ,n= 7 ,length= 38 !!
+x= 1 ,n= 5 ,length= 42 !!
+x= 1 ,n= 5 ,length= 44 !!
+x= 3 ,n= 5 ,length= 44 !!
+x= 13 ,n= 5 ,length= 45 !!
+x= 17 ,n= 5 ,length= 45 !!
+x= 27 ,n= 5 ,length= 45 !!
+x= 33 ,n= 5 ,length= 45 !!
+x= 43 ,n= 5 ,length= 45 !!
+x= 83 ,n= 5 ,length= 45 !!
+x= 1 ,n= 5 ,length= 46 !!
+x= 3 ,n= 5 ,length= 46 !!
+c: 108
+x= 1 ,n= 7 ,length= 37 !!
+x= 1 ,n= 7 ,length= 38 !!
+x= 1 ,n= 5 ,length= 42 !!
+x= 1 ,n= 5 ,length= 44 !!
+x= 3 ,n= 5 ,length= 44 !!
+x= 13 ,n= 5 ,length= 45 !!
+x= 17 ,n= 5 ,length= 45 !!
+x= 27 ,n= 5 ,length= 45 !!
+x= 33 ,n= 5 ,length= 45 !!
+x= 43 ,n= 5 ,length= 45 !!
+x= 83 ,n= 5 ,length= 45 !!
+x= 1 ,n= 5 ,length= 46 !!
+x= 3 ,n= 5 ,length= 46 !!
+c: 109
+x= 1 ,n= 31 ,length= 22 !!
+x= 1 ,n= 7 ,length= 37 !!
+x= 1 ,n= 7 ,length= 38 !!
+x= 1 ,n= 5 ,length= 44 !!
+x= 3 ,n= 5 ,length= 44 !!
+x= 13 ,n= 5 ,length= 45 !!
+x= 17 ,n= 5 ,length= 45 !!
+x= 27 ,n= 5 ,length= 45 !!
+x= 33 ,n= 5 ,length= 45 !!
+x= 43 ,n= 5 ,length= 45 !!
+x= 83 ,n= 5 ,length= 45 !!
+x= 1 ,n= 5 ,length= 46 !!
+x= 3 ,n= 5 ,length= 46 !!
+c: 110
+x= 1 ,n= 15 ,length= 28 !!
+x= 1 ,n= 7 ,length= 37 !!
+x= 1 ,n= 7 ,length= 38 !!
+x= 1 ,n= 7 ,length= 39 !!
+x= 1 ,n= 5 ,length= 44 !!
+x= 3 ,n= 5 ,length= 44 !!
+x= 13 ,n= 5 ,length= 45 !!
+x= 17 ,n= 5 ,length= 45 !!
+x= 27 ,n= 5 ,length= 45 !!
+x= 33 ,n= 5 ,length= 45 !!
+x= 43 ,n= 5 ,length= 45 !!
+x= 1 ,n= 5 ,length= 46 !!
+x= 3 ,n= 5 ,length= 46 !!
+c: 111
+x= 1 ,n= 15 ,length= 28 !!
+x= 1 ,n= 7 ,length= 38 !!
+x= 1 ,n= 7 ,length= 39 !!
+x= 1 ,n= 5 ,length= 44 !!
+x= 3 ,n= 5 ,length= 44 !!
+x= 13 ,n= 5 ,length= 45 !!
+x= 17 ,n= 5 ,length= 45 !!
+x= 27 ,n= 5 ,length= 45 !!
+x= 33 ,n= 5 ,length= 45 !!
+x= 1 ,n= 5 ,length= 46 !!
+x= 3 ,n= 5 ,length= 46 !!
+c: 112
+x= 1 ,n= 7 ,length= 38 !!
+x= 1 ,n= 7 ,length= 39 !!
+x= 1 ,n= 5 ,length= 44 !!
+x= 3 ,n= 5 ,length= 44 !!
+x= 13 ,n= 5 ,length= 45 !!
+x= 17 ,n= 5 ,length= 45 !!
+x= 1 ,n= 5 ,length= 46 !!
+x= 3 ,n= 5 ,length= 46 !!
+x= 1 ,n= 5 ,length= 48 !!
+x= 3 ,n= 5 ,length= 48 !!
+x= 13 ,n= 5 ,length= 48 !!
+x= 17 ,n= 5 ,length= 48 !!
+x= 27 ,n= 5 ,length= 48 !!
+x= 33 ,n= 5 ,length= 48 !!
+x= 43 ,n= 5 ,length= 48 !!
+x= 83 ,n= 5 ,length= 48 !!
+c: 113
+x= 1 ,n= 7 ,length= 38 !!
+x= 1 ,n= 7 ,length= 39 !!
+x= 1 ,n= 7 ,length= 40 !!
+x= 1 ,n= 5 ,length= 44 !!
+x= 1 ,n= 5 ,length= 46 !!
+x= 3 ,n= 5 ,length= 46 !!
+x= 1 ,n= 5 ,length= 48 !!
+x= 3 ,n= 5 ,length= 48 !!
+x= 13 ,n= 5 ,length= 48 !!
+x= 17 ,n= 5 ,length= 48 !!
+x= 27 ,n= 5 ,length= 48 !!
+x= 33 ,n= 5 ,length= 48 !!
+x= 43 ,n= 5 ,length= 48 !!
+x= 83 ,n= 5 ,length= 48 !!
+c: 114
+x= 1 ,n= 31 ,length= 23 !!
+x= 1 ,n= 15 ,length= 29 !!
+x= 1 ,n= 7 ,length= 39 !!
+x= 1 ,n= 7 ,length= 40 !!
+x= 1 ,n= 5 ,length= 46 !!
+x= 3 ,n= 5 ,length= 46 !!
+x= 1 ,n= 5 ,length= 48 !!
+x= 3 ,n= 5 ,length= 48 !!
+x= 13 ,n= 5 ,length= 48 !!
+x= 17 ,n= 5 ,length= 48 !!
+x= 27 ,n= 5 ,length= 48 !!
+x= 33 ,n= 5 ,length= 48 !!
+x= 43 ,n= 5 ,length= 48 !!
+x= 83 ,n= 5 ,length= 48 !!
+c: 115
+x= 1 ,n= 15 ,length= 29 !!
+x= 1 ,n= 7 ,length= 39 !!
+x= 1 ,n= 7 ,length= 40 !!
+x= 1 ,n= 5 ,length= 46 !!
+x= 3 ,n= 5 ,length= 46 !!
+x= 1 ,n= 5 ,length= 48 !!
+x= 3 ,n= 5 ,length= 48 !!
+x= 13 ,n= 5 ,length= 48 !!
+x= 17 ,n= 5 ,length= 48 !!
+x= 27 ,n= 5 ,length= 48 !!
+x= 33 ,n= 5 ,length= 48 !!
+x= 43 ,n= 5 ,length= 48 !!
+x= 83 ,n= 5 ,length= 48 !!
+c: 116
+x= 1 ,n= 7 ,length= 39 !!
+x= 1 ,n= 7 ,length= 40 !!
+x= 1 ,n= 7 ,length= 41 !!
+x= 1 ,n= 5 ,length= 46 !!
+x= 3 ,n= 5 ,length= 46 !!
+x= 1 ,n= 5 ,length= 48 !!
+x= 3 ,n= 5 ,length= 48 !!
+x= 13 ,n= 5 ,length= 48 !!
+x= 17 ,n= 5 ,length= 48 !!
+x= 27 ,n= 5 ,length= 48 !!
+x= 33 ,n= 5 ,length= 48 !!
+x= 43 ,n= 5 ,length= 48 !!
+x= 83 ,n= 5 ,length= 48 !!
+c: 117
+x= 1 ,n= 7 ,length= 40 !!
+x= 1 ,n= 7 ,length= 41 !!
+x= 1 ,n= 5 ,length= 46 !!
+x= 3 ,n= 5 ,length= 46 !!
+x= 1 ,n= 5 ,length= 48 !!
+x= 3 ,n= 5 ,length= 48 !!
+x= 13 ,n= 5 ,length= 48 !!
+x= 17 ,n= 5 ,length= 48 !!
+x= 27 ,n= 5 ,length= 48 !!
+x= 33 ,n= 5 ,length= 48 !!
+x= 43 ,n= 5 ,length= 48 !!
+x= 83 ,n= 5 ,length= 48 !!
+x= 1 ,n= 5 ,length= 50 !!
+x= 3 ,n= 5 ,length= 50 !!
+c: 118
+x= 1 ,n= 15 ,length= 30 !!
+x= 1 ,n= 7 ,length= 40 !!
+x= 1 ,n= 7 ,length= 41 !!
+x= 1 ,n= 7 ,length= 42 !!
+x= 1 ,n= 5 ,length= 46 !!
+x= 1 ,n= 5 ,length= 48 !!
+x= 3 ,n= 5 ,length= 48 !!
+x= 13 ,n= 5 ,length= 48 !!
+x= 17 ,n= 5 ,length= 48 !!
+x= 27 ,n= 5 ,length= 48 !!
+x= 33 ,n= 5 ,length= 48 !!
+x= 43 ,n= 5 ,length= 48 !!
+x= 1 ,n= 5 ,length= 50 !!
+x= 3 ,n= 5 ,length= 50 !!
+c: 119
+x= 1 ,n= 31 ,length= 24 !!
+x= 1 ,n= 15 ,length= 30 !!
+x= 1 ,n= 7 ,length= 40 !!
+x= 1 ,n= 7 ,length= 41 !!
+x= 1 ,n= 7 ,length= 42 !!
+x= 1 ,n= 5 ,length= 48 !!
+x= 3 ,n= 5 ,length= 48 !!
+x= 13 ,n= 5 ,length= 48 !!
+x= 17 ,n= 5 ,length= 48 !!
+x= 27 ,n= 5 ,length= 48 !!
+x= 33 ,n= 5 ,length= 48 !!
+x= 1 ,n= 5 ,length= 50 !!
+x= 3 ,n= 5 ,length= 50 !!
+x= 13 ,n= 5 ,length= 51 !!
+x= 17 ,n= 5 ,length= 51 !!
+x= 27 ,n= 5 ,length= 51 !!
+x= 33 ,n= 5 ,length= 51 !!
+x= 43 ,n= 5 ,length= 51 !!
+x= 83 ,n= 5 ,length= 51 !!
+c: 120
+x= 27 ,n= 181 ,length= 16 !!
+x= 35 ,n= 181 ,length= 16 !!
+x= 1 ,n= 7 ,length= 41 !!
+x= 1 ,n= 7 ,length= 42 !!
+x= 1 ,n= 5 ,length= 48 !!
+x= 3 ,n= 5 ,length= 48 !!
+x= 13 ,n= 5 ,length= 48 !!
+x= 1 ,n= 5 ,length= 50 !!
+x= 3 ,n= 5 ,length= 50 !!
+x= 13 ,n= 5 ,length= 51 !!
+x= 17 ,n= 5 ,length= 51 !!
+x= 27 ,n= 5 ,length= 51 !!
+x= 33 ,n= 5 ,length= 51 !!
+x= 43 ,n= 5 ,length= 51 !!
+x= 83 ,n= 5 ,length= 51 !!
+c: 121
+x= 1 ,n= 7 ,length= 41 !!
+x= 1 ,n= 7 ,length= 42 !!
+x= 1 ,n= 7 ,length= 43 !!
+x= 1 ,n= 5 ,length= 48 !!
+x= 3 ,n= 5 ,length= 48 !!
+x= 1 ,n= 5 ,length= 50 !!
+x= 3 ,n= 5 ,length= 50 !!
+x= 13 ,n= 5 ,length= 51 !!
+x= 17 ,n= 5 ,length= 51 !!
+x= 27 ,n= 5 ,length= 51 !!
+x= 33 ,n= 5 ,length= 51 !!
+x= 43 ,n= 5 ,length= 51 !!
+x= 83 ,n= 5 ,length= 51 !!
+x= 1 ,n= 5 ,length= 52 !!
+x= 3 ,n= 5 ,length= 52 !!
+c: 122
+x= 1 ,n= 15 ,length= 31 !!
+x= 1 ,n= 7 ,length= 41 !!
+x= 1 ,n= 7 ,length= 42 !!
+x= 1 ,n= 7 ,length= 43 !!
+x= 1 ,n= 5 ,length= 48 !!
+x= 3 ,n= 5 ,length= 48 !!
+x= 1 ,n= 5 ,length= 50 !!
+x= 3 ,n= 5 ,length= 50 !!
+x= 13 ,n= 5 ,length= 51 !!
+x= 17 ,n= 5 ,length= 51 !!
+x= 27 ,n= 5 ,length= 51 !!
+x= 33 ,n= 5 ,length= 51 !!
+x= 43 ,n= 5 ,length= 51 !!
+x= 83 ,n= 5 ,length= 51 !!
+x= 1 ,n= 5 ,length= 52 !!
+x= 3 ,n= 5 ,length= 52 !!
+c: 123
+x= 1 ,n= 15 ,length= 31 !!
+x= 1 ,n= 7 ,length= 42 !!
+x= 1 ,n= 7 ,length= 43 !!
+x= 1 ,n= 5 ,length= 48 !!
+x= 1 ,n= 5 ,length= 50 !!
+x= 3 ,n= 5 ,length= 50 !!
+x= 13 ,n= 5 ,length= 51 !!
+x= 17 ,n= 5 ,length= 51 !!
+x= 27 ,n= 5 ,length= 51 !!
+x= 33 ,n= 5 ,length= 51 !!
+x= 43 ,n= 5 ,length= 51 !!
+x= 83 ,n= 5 ,length= 51 !!
+x= 1 ,n= 5 ,length= 52 !!
+x= 3 ,n= 5 ,length= 52 !!
+c: 124
+x= 1 ,n= 31 ,length= 25 !!
+x= 1 ,n= 7 ,length= 42 !!
+x= 1 ,n= 7 ,length= 43 !!
+x= 1 ,n= 7 ,length= 44 !!
+x= 1 ,n= 5 ,length= 48 !!
+x= 1 ,n= 5 ,length= 50 !!
+x= 3 ,n= 5 ,length= 50 !!
+x= 13 ,n= 5 ,length= 51 !!
+x= 17 ,n= 5 ,length= 51 !!
+x= 27 ,n= 5 ,length= 51 !!
+x= 33 ,n= 5 ,length= 51 !!
+x= 43 ,n= 5 ,length= 51 !!
+x= 83 ,n= 5 ,length= 51 !!
+x= 1 ,n= 5 ,length= 52 !!
+x= 3 ,n= 5 ,length= 52 !!
+c: 125
+x= 1 ,n= 7 ,length= 42 !!
+x= 1 ,n= 7 ,length= 43 !!
+x= 1 ,n= 7 ,length= 44 !!
+x= 1 ,n= 5 ,length= 50 !!
+x= 3 ,n= 5 ,length= 50 !!
+x= 13 ,n= 5 ,length= 51 !!
+x= 17 ,n= 5 ,length= 51 !!
+x= 27 ,n= 5 ,length= 51 !!
+x= 33 ,n= 5 ,length= 51 !!
+x= 43 ,n= 5 ,length= 51 !!
+x= 83 ,n= 5 ,length= 51 !!
+x= 1 ,n= 5 ,length= 52 !!
+x= 3 ,n= 5 ,length= 52 !!
+c: 126
+x= 1 ,n= 15 ,length= 32 !!
+x= 1 ,n= 7 ,length= 43 !!
+x= 1 ,n= 7 ,length= 44 !!
+x= 1 ,n= 5 ,length= 50 !!
+x= 3 ,n= 5 ,length= 50 !!
+x= 13 ,n= 5 ,length= 51 !!
+x= 17 ,n= 5 ,length= 51 !!
+x= 27 ,n= 5 ,length= 51 !!
+x= 33 ,n= 5 ,length= 51 !!
+x= 43 ,n= 5 ,length= 51 !!
+x= 1 ,n= 5 ,length= 52 !!
+x= 3 ,n= 5 ,length= 52 !!
+x= 1 ,n= 5 ,length= 54 !!
+x= 3 ,n= 5 ,length= 54 !!
+x= 13 ,n= 5 ,length= 54 !!
+x= 17 ,n= 5 ,length= 54 !!
+x= 27 ,n= 5 ,length= 54 !!
+x= 33 ,n= 5 ,length= 54 !!
+x= 43 ,n= 5 ,length= 54 !!
+x= 83 ,n= 5 ,length= 54 !!
+c: 127
+x= 1 ,n= 15 ,length= 32 !!
+x= 1 ,n= 7 ,length= 43 !!
+x= 1 ,n= 7 ,length= 44 !!
+x= 1 ,n= 7 ,length= 45 !!
+x= 1 ,n= 5 ,length= 50 !!
+x= 3 ,n= 5 ,length= 50 !!
+x= 13 ,n= 5 ,length= 51 !!
+x= 17 ,n= 5 ,length= 51 !!
+x= 27 ,n= 5 ,length= 51 !!
+x= 1 ,n= 5 ,length= 52 !!
+x= 3 ,n= 5 ,length= 52 !!
+x= 1 ,n= 5 ,length= 54 !!
+x= 3 ,n= 5 ,length= 54 !!
+x= 13 ,n= 5 ,length= 54 !!
+x= 17 ,n= 5 ,length= 54 !!
+x= 27 ,n= 5 ,length= 54 !!
+x= 33 ,n= 5 ,length= 54 !!
+x= 43 ,n= 5 ,length= 54 !!
+x= 83 ,n= 5 ,length= 54 !!
+c: 128
+x= 1 ,n= 7 ,length= 43 !!
+x= 1 ,n= 7 ,length= 44 !!
+x= 1 ,n= 7 ,length= 45 !!
+x= 1 ,n= 5 ,length= 50 !!
+x= 13 ,n= 5 ,length= 51 !!
+x= 1 ,n= 5 ,length= 52 !!
+x= 3 ,n= 5 ,length= 52 !!
+x= 1 ,n= 5 ,length= 54 !!
+x= 3 ,n= 5 ,length= 54 !!
+x= 13 ,n= 5 ,length= 54 !!
+x= 17 ,n= 5 ,length= 54 !!
+x= 27 ,n= 5 ,length= 54 !!
+x= 33 ,n= 5 ,length= 54 !!
+x= 43 ,n= 5 ,length= 54 !!
+x= 83 ,n= 5 ,length= 54 !!
+c: 129
+x= 1 ,n= 31 ,length= 26 !!
+x= 1 ,n= 15 ,length= 33 !!
+x= 1 ,n= 7 ,length= 44 !!
+x= 1 ,n= 7 ,length= 45 !!
+x= 1 ,n= 5 ,length= 50 !!
+x= 1 ,n= 5 ,length= 52 !!
+x= 3 ,n= 5 ,length= 52 !!
+x= 1 ,n= 5 ,length= 54 !!
+x= 3 ,n= 5 ,length= 54 !!
+x= 13 ,n= 5 ,length= 54 !!
+x= 17 ,n= 5 ,length= 54 !!
+x= 27 ,n= 5 ,length= 54 !!
+x= 33 ,n= 5 ,length= 54 !!
+x= 43 ,n= 5 ,length= 54 !!
+x= 83 ,n= 5 ,length= 54 !!
+c: 130
+x= 1 ,n= 15 ,length= 33 !!
+x= 1 ,n= 7 ,length= 44 !!
+x= 1 ,n= 7 ,length= 45 !!
+x= 1 ,n= 7 ,length= 46 !!
+x= 1 ,n= 5 ,length= 52 !!
+x= 3 ,n= 5 ,length= 52 !!
+x= 1 ,n= 5 ,length= 54 !!
+x= 3 ,n= 5 ,length= 54 !!
+x= 13 ,n= 5 ,length= 54 !!
+x= 17 ,n= 5 ,length= 54 !!
+x= 27 ,n= 5 ,length= 54 !!
+x= 33 ,n= 5 ,length= 54 !!
+x= 43 ,n= 5 ,length= 54 !!
+x= 83 ,n= 5 ,length= 54 !!
+c: 131
+x= 1 ,n= 15 ,length= 33 !!
+x= 1 ,n= 7 ,length= 44 !!
+x= 1 ,n= 7 ,length= 45 !!
+x= 1 ,n= 7 ,length= 46 !!
+x= 1 ,n= 5 ,length= 52 !!
+x= 3 ,n= 5 ,length= 52 !!
+x= 1 ,n= 5 ,length= 54 !!
+x= 3 ,n= 5 ,length= 54 !!
+x= 13 ,n= 5 ,length= 54 !!
+x= 17 ,n= 5 ,length= 54 !!
+x= 27 ,n= 5 ,length= 54 !!
+x= 33 ,n= 5 ,length= 54 !!
+x= 43 ,n= 5 ,length= 54 !!
+x= 83 ,n= 5 ,length= 54 !!
+x= 1 ,n= 5 ,length= 56 !!
+x= 3 ,n= 5 ,length= 56 !!
+c: 132
+x= 1 ,n= 7 ,length= 45 !!
+x= 1 ,n= 7 ,length= 46 !!
+x= 1 ,n= 7 ,length= 47 !!
+x= 1 ,n= 5 ,length= 52 !!
+x= 3 ,n= 5 ,length= 52 !!
+x= 1 ,n= 5 ,length= 54 !!
+x= 3 ,n= 5 ,length= 54 !!
+x= 13 ,n= 5 ,length= 54 !!
+x= 17 ,n= 5 ,length= 54 !!
+x= 27 ,n= 5 ,length= 54 !!
+x= 33 ,n= 5 ,length= 54 !!
+x= 43 ,n= 5 ,length= 54 !!
+x= 83 ,n= 5 ,length= 54 !!
+x= 1 ,n= 5 ,length= 56 !!
+x= 3 ,n= 5 ,length= 56 !!
+c: 133
+x= 1 ,n= 15 ,length= 34 !!
+x= 1 ,n= 7 ,length= 45 !!
+x= 1 ,n= 7 ,length= 46 !!
+x= 1 ,n= 7 ,length= 47 !!
+x= 1 ,n= 5 ,length= 52 !!
+x= 1 ,n= 5 ,length= 54 !!
+x= 3 ,n= 5 ,length= 54 !!
+x= 13 ,n= 5 ,length= 54 !!
+x= 17 ,n= 5 ,length= 54 !!
+x= 27 ,n= 5 ,length= 54 !!
+x= 33 ,n= 5 ,length= 54 !!
+x= 43 ,n= 5 ,length= 54 !!
+x= 83 ,n= 5 ,length= 54 !!
+x= 1 ,n= 5 ,length= 56 !!
+x= 3 ,n= 5 ,length= 56 !!
+x= 13 ,n= 5 ,length= 57 !!
+x= 17 ,n= 5 ,length= 57 !!
+x= 27 ,n= 5 ,length= 57 !!
+x= 33 ,n= 5 ,length= 57 !!
+x= 43 ,n= 5 ,length= 57 !!
+x= 83 ,n= 5 ,length= 57 !!
+c: 134
+x= 1 ,n= 31 ,length= 27 !!
+x= 1 ,n= 15 ,length= 34 !!
+x= 1 ,n= 7 ,length= 45 !!
+x= 1 ,n= 7 ,length= 46 !!
+x= 1 ,n= 7 ,length= 47 !!
+x= 1 ,n= 5 ,length= 52 !!
+x= 1 ,n= 5 ,length= 54 !!
+x= 3 ,n= 5 ,length= 54 !!
+x= 13 ,n= 5 ,length= 54 !!
+x= 17 ,n= 5 ,length= 54 !!
+x= 27 ,n= 5 ,length= 54 !!
+x= 33 ,n= 5 ,length= 54 !!
+x= 43 ,n= 5 ,length= 54 !!
+x= 1 ,n= 5 ,length= 56 !!
+x= 3 ,n= 5 ,length= 56 !!
+x= 13 ,n= 5 ,length= 57 !!
+x= 17 ,n= 5 ,length= 57 !!
+x= 27 ,n= 5 ,length= 57 !!
+x= 33 ,n= 5 ,length= 57 !!
+x= 43 ,n= 5 ,length= 57 !!
+x= 83 ,n= 5 ,length= 57 !!
+c: 135
+x= 27 ,n= 181 ,length= 18 !!
+x= 35 ,n= 181 ,length= 18 !!
+x= 1 ,n= 15 ,length= 34 !!
+x= 1 ,n= 7 ,length= 46 !!
+x= 1 ,n= 7 ,length= 47 !!
+x= 1 ,n= 7 ,length= 48 !!
+x= 1 ,n= 5 ,length= 54 !!
+x= 3 ,n= 5 ,length= 54 !!
+x= 13 ,n= 5 ,length= 54 !!
+x= 17 ,n= 5 ,length= 54 !!
+x= 1 ,n= 5 ,length= 56 !!
+x= 3 ,n= 5 ,length= 56 !!
+x= 13 ,n= 5 ,length= 57 !!
+x= 17 ,n= 5 ,length= 57 !!
+x= 27 ,n= 5 ,length= 57 !!
+x= 33 ,n= 5 ,length= 57 !!
+x= 43 ,n= 5 ,length= 57 !!
+x= 83 ,n= 5 ,length= 57 !!
+x= 1 ,n= 5 ,length= 58 !!
+x= 3 ,n= 5 ,length= 58 !!
+c: 136
+x= 1 ,n= 7 ,length= 46 !!
+x= 1 ,n= 7 ,length= 47 !!
+x= 1 ,n= 7 ,length= 48 !!
+x= 1 ,n= 5 ,length= 54 !!
+x= 3 ,n= 5 ,length= 54 !!
+x= 1 ,n= 5 ,length= 56 !!
+x= 3 ,n= 5 ,length= 56 !!
+x= 13 ,n= 5 ,length= 57 !!
+x= 17 ,n= 5 ,length= 57 !!
+x= 27 ,n= 5 ,length= 57 !!
+x= 33 ,n= 5 ,length= 57 !!
+x= 43 ,n= 5 ,length= 57 !!
+x= 83 ,n= 5 ,length= 57 !!
+x= 1 ,n= 5 ,length= 58 !!
+x= 3 ,n= 5 ,length= 58 !!
+c: 137
+x= 1 ,n= 15 ,length= 35 !!
+x= 1 ,n= 7 ,length= 46 !!
+x= 1 ,n= 7 ,length= 47 !!
+x= 1 ,n= 7 ,length= 48 !!
+x= 1 ,n= 5 ,length= 54 !!
+x= 3 ,n= 5 ,length= 54 !!
+x= 1 ,n= 5 ,length= 56 !!
+x= 3 ,n= 5 ,length= 56 !!
+x= 13 ,n= 5 ,length= 57 !!
+x= 17 ,n= 5 ,length= 57 !!
+x= 27 ,n= 5 ,length= 57 !!
+x= 33 ,n= 5 ,length= 57 !!
+x= 43 ,n= 5 ,length= 57 !!
+x= 83 ,n= 5 ,length= 57 !!
+x= 1 ,n= 5 ,length= 58 !!
+x= 3 ,n= 5 ,length= 58 !!
