@@ -1,4 +1,4 @@
-*Problem*. Let $x_0>1$ be a positive integer. Define $(a_i)_{i\in\mathbb{N}$ as $a_0=x$ and $a_{i+1}=f(a_i)$, where $f(a_i)$ is the concatenation of $g(a_i)$ and $h(a_i)$, where $g(a_i)$ is the
+*Problem*. Let $x_0>1$ be a positive integer. Define $(a_i)_{n\in\mathbb{N}}$ as $a_0=x$ and $a_{i+1}=f(a_i)$, where $f(a_i)$ is the concatenation of $g(a_i)$ and $h(a_i)$, where $g(a_i)$ is the
 digital root (of first digit of $a_i$ plus 1) and $h(a_i)$ is the second largest integer divisor of $a_i$. Is this true, that in any such sequence $a$, there is always a prime number?
 
 (Examples: we have $f(37) = 41$, because the second largest integer divisor of 37 is 1 and the digital root of 3+1 is 4. We also have $f(94) = 147$, since the 2nd largest divisor of 94 is 47 and
